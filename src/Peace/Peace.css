@@ -1,0 +1,9 @@
+.peace img {
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+.peace {
+    text-align: center;
+    background-color: white;
+}

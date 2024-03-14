@@ -1,0 +1,13 @@
+import React from "react";
+import "../index.css";
+
+function Home() {
+    return (
+        <div>
+            <h2>Home</h2>
+            <p>This is the home page for the Performance Assessment Application.</p>
+        </div>
+    )
+}
+
+export default Home;
